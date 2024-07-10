@@ -1,3 +1,6 @@
+# UNITY CODE SAMPLES - PORTFOLIO 
+
+This repository contains sample Unity scripts utilized as part of a personal portfolio. The scripts showcase different types of player movement systems, as well as a dialogue system integrated with Pixel Crusher's Dialogue System. These samples demonstrate various coding techniques and approaches used in game development with Unity.
 
 
 # The Ability System
@@ -198,4 +201,6 @@ The `GroundCheck` script is a utility script used by `PlayerMovement` to determi
 
 Both movement systems offer different approaches to player control, catering to different types of games and player experiences. The `GroundCheck` script is a crucial component for ensuring that the `PlayerMovement` script functions correctly by accurately determining when the player is grounded.
 
-For more details on the implementation, refer to the code files in the `Scripts` folder of this repository.
+## License
+
+These scripts are my property, but they can be utilized for any purpose by anyone. Feel free to use, modify, and distribute them as needed.
